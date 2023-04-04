@@ -1,0 +1,1 @@
+ Training_Data.append(np.asarray(imag
